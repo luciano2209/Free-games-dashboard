@@ -7,7 +7,7 @@ import GameList from '../../components/GameList';
 const Pcgames = () => {
   
   return (
-    <GameList url='?platform=pc' search=''/>
+    <GameList url='?platform=pc' search='PC'/>
   )
 }
 

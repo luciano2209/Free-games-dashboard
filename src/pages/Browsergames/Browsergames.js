@@ -7,7 +7,7 @@ import GameList from '../../components/GameList';
 const Browsergames = () => {
   
   return (
-    <GameList url='?platform=browser' search='Brouser'/>
+    <GameList url='?platform=browser' search='Browser'/>
   )
 }
 
